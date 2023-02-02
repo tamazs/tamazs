@@ -3,7 +3,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My names is Tamás and I like coding hehe" src="images/personal_note.svgg" />
+  <img height="50" alt="My names is Tamás and I like coding hehe" src="images/personal_note.svg" />
   <br />
     <img height="50" alt="hackin stuff" src="images/hackerman.gif" />
   <br />
