@@ -5,7 +5,7 @@
   <br />
   <img height="50" alt="My names is Tamás and I like coding hehe" src="images/personal_note.svg" />
   <br />
-    <img height="50" alt="hackin stuff" src="images/hackerman.svg" />
+    <img height="50" alt="hackin stuff" src="images/hackerman.gif" />
   <br />
   <br />
 
@@ -15,7 +15,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="http://tamasmajor.xyz/">
 <strong>Visit my personal website </strong>
 <br />
 <br />
