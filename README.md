@@ -16,7 +16,7 @@
 <tr>
 <td align="center">
 <a href="http://tamasmajor.xyz/">
-<strong>Visit my personal website </strong>
+<strong>Visit my personal website</strong>
 <br />
 <br />
 <br />
