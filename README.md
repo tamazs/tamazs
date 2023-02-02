@@ -60,6 +60,6 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="images/noframes.gif" alt="No frames pls" />
 
 </div>
