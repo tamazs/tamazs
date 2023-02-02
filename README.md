@@ -43,6 +43,20 @@
 </p>
 
 </td>
+
+<td align="center">
+<a href="mailto:tamasmajor.work@gmail.com">
+<strong>Shoot me an email</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Mail" src="images/mail.gif"> 
+</a>
+</p>
+
+</td>
 </tr>
 </table>
 
