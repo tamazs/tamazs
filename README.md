@@ -67,8 +67,6 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/tamazs/count.svg)
-
 
 <img src="images/notepad.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
