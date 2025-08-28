@@ -7,17 +7,8 @@
           color: limegreen;
           font-size: 1.5em;
         }
-
-        .blink {
-          animation: blink-animation 1s steps(5, start) infinite;
-        }
-        @keyframes blink-animation {
-          to {
-            visibility: hidden;
-          }
-        }
       </style>
-      <strong>Hey I'm Tamás and I like <span class="blink">programming</span></strong>
+      <strong>Hey I'm Tamás and I like programming</strong>
 		</div>
 	</foreignObject>
 </svg>
