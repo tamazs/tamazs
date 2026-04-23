@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://majort.webflow.io/">
+<a href="https://tamasmajor.lovable.app/">
 <strong>Visit my personal website</strong>
 <br />
 <br />
